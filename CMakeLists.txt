@@ -3,5 +3,5 @@ project(c_study)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES main.cpp)
+set(SOURCE_FILES helloworld.cpp)
 add_executable(c_study ${SOURCE_FILES})
