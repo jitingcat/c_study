@@ -1,4 +1,5 @@
-/* 2.7.3 使用3个用户定义函数(包括main()),并生成下面输出:
+// 2.7.3
+/* 使用3个用户定义函数(包括main()),并生成下面输出:
  * There blind mice
  * There blind mice
  * see how they run

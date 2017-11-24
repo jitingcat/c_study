@@ -1,4 +1,5 @@
-/* 2.7.7 小时分钟合并
+// 2.7.7
+/* 小时分钟合并
  * 用户定义函数,要求用户输入小时和分钟,将值传递给一个void函数
  * Enter the number of hours: 9
  * Enter the number of minutes: 28

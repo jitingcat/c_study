@@ -1,4 +1,5 @@
-/* 2.7.5 main调用一个用户定义函数(摄氏作为参数,返回华氏温度)
+// 2.7.5
+/* main调用一个用户定义函数(摄氏作为参数,返回华氏温度)
  * Please enter a Celsius value: 20
  * 20 degrees Celsius is 68 degrees Fahrenheit.
  * 公式: 华氏=1.8 x 摄氏 + 32.0
